@@ -1,7 +1,5 @@
 - 👋 Hi, I’m howard
-- 👀 I’m interested in surgical navigation
-- 🌱 I’m currently learning SLAM
-- 💞️ I’m looking to collaborate on autononous gastroendoscopy
+- 👀 I’m interested in surgical robotics and computer vision
 - 📫 Feel free to contact me by email howard@tju.edu.cn
 
 <!---
